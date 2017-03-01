@@ -1,8 +1,6 @@
 ## Requirement
 ### Tools
 
-virtualbox
-
 docker-machine
 
 docker-compose
